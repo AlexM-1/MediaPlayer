@@ -2,13 +2,13 @@
 
 Homework on the subject AVFoundation
 
-Features:
+### Features:
 - Music player
 - Video player
 - Voice recorder
 - Music tracks are stored in the project. Videos load from build in app url list.
 
-Skills:
+### Skills:
 - AVFoundation
 - AVKit
 - Timer
